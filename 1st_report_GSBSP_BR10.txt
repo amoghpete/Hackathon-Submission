@@ -1,0 +1,40 @@
+﻿Report for the first 12 hours:
+
+
+* I initially roughly picturized how the home page of the website should look.
+* I decided not to go for any already available theme and try to make it from scratch
+* So, for this first 12 hours, I tried only to built a skeletal structure of the page
+* For this, I took the help of HTML and Bootstrap only
+* I am using Visual Studio code editor for this
+* During the entire coding, I kept using git so to understand the timeline of what I did.
+* As of now, I have added a navbar with items that I felt I should include:
+   * Home
+   * Restaurant
+   * Menu
+   * And others(of which some might be deleted if I feel it’s hard to complete a separate web page for them in time
+* The home page was given three jumbotrons for emphasizing the main content like:
+   * List Attraction and call for table reservation
+   * Ways to book and call for creating a menu
+   * Other branches links and call for those who might want to know more about the restaurant’s history
+* I will be adding cards with pictures later on
+* Styling part is not started yet but I have clear goals about it how should it look
+* For the footer part, I am using the grid layout where I added three columns for:
+   * Contact/follow us part
+   * Opening times
+   * Google maps plugin
+* I am thinking to make navbar and the footer in a separate file so I can use it for repetitively in other pages
+* The 30 dishes problem statement had described won’t be on the home page. They can be accommodated in menu page
+* Similarly About us will be covered in the restaurant page
+* To talk about responsiveness, I am taking care of it by using containers and specifying position with respect to screen sizes
+* I am aiming to give smooth transitions using CSS later on 
+* As of now, I have not used any external photographs or codes so no credits to be given so far. Just I got a lot of help from Bootstrap documentation
+
+
+Hopefully, in the next 12 hours, I could present a more appealing site to you. Till then you can see this
+
+
+Github Repo: https://github.com/amoghpete/Frontend_Bakery-or-Restaurant_GSBSP-BR10
+Github Hosted: https://amoghpete.github.io/Frontend_Bakery-or-Restaurant_GSBSP-BR10/
+
+
+P.S. I liked this system of reporting it has helped me to be more clear about the project
