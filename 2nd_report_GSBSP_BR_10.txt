@@ -1,0 +1,33 @@
+﻿Report for the second 12 hours:
+
+
+* So this time I focused on completing the styling of the home page
+* Most of the code was done in CSS to style the previously built skeletal structure
+* First I designed a logo in canva but it proved to be unsuccessful as I have overly saturated it with elements leaving to less space for text.
+* Then I designed a new from scratch which you will see in the project, this time I limited elements and colors-only gold on transparent background- this one satisfied me.
+* Then I worked on the header section, I used a photograph from Unsplash for which I have given credit inside the code.
+* I used Berkshire Swash font from Google fonts same was used for the logo to maintain consistency
+* I decided to use only a limited number of colors, hence you may see only black, gold and shades of brown used repetitively this corresponded to the primary Image and Logo
+* I even did an outline to the name of the restaurant in header which was a new thing to learn for me
+* I set different padding and margin for different elements which helped me to assemble everything as I imagined
+* I took advantage of blur and opacity to create shadow effects and dark filters to image
+* I customized the jumbotrons to look blended with the site, I am wishing to add some photographs in them in the next 12 hours to enhance its appeal.
+* The content of jumbotron now is a rough one and needs to be refined
+* Then comes the footer part which for now seems to convey the most information
+* I used rows and columns two create its structure
+   * The first column contains ways to connect with the restaurant the logos used were taken from Flaticon for which I provided credit in the code.
+   * This section was simple and I used <br> tag only to make distinct places. You can see here the logo for the website
+   * In the third column, you might see a map which I embedded using Google maps. Initially, I got confused while googling about adding a map and went to create API and stuff which I don’t have a slight idea about. Then I realized embedding is far easier way to take. (*unfortunately, there is no such resto at the location showed*)
+* Moving forward, the site is responsive so far so good. But still, some elements can be improved on which I will try by next reporting.
+
+
+
+
+Within the next 12 hours, I will try to include the menu card. Till then you can see this
+
+
+Github Repo: https://github.com/amoghpete/Frontend_Bakery-or-Restaurant_GSBSP-BR10
+Github Hosted: https://amoghpete.github.io/Frontend_Bakery-or-Restaurant_GSBSP-BR10/
+
+
+P.S. Its been fun learning a lot about CSS functionalities and styling while working on the project
