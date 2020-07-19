@@ -20,3 +20,5 @@ I hope I have created an impressive website. Thank you for providing this opport
 
 Github Repo: https://github.com/amoghpete/Frontend_Bakery-or-Restaurant_GSBSP-BR10
 Github Hosted: https://amoghpete.github.io/Frontend_Bakery-or-Restaurant_GSBSP-BR10/
+
+ps: to the site title bar I have added a favicon have a look
