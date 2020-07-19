@@ -1,0 +1,22 @@
+﻿Report for the final 12 hours:
+
+
+
+
+* Introduced two pages menu and about us, the menu consists of three pages while about us has a photo gallery section
+* I used a lot of CSS to customize the site
+* I took special care so it can be responsive towards the mobile screen
+* For all the photographs I have provided appropriate credits
+* For the menu card, I have used grid system with bootstrap cards in it
+* I have smoothened the scroll of the navbar
+* For the photo gallery, I used bootstrap carousel 
+* The most difficult task was to have a perfect look at mobile screen foe which I did lots of trial with padding and margin
+
+
+
+
+I hope I have created an impressive website. Thank you for providing this opportunity.
+
+
+Github Repo: https://github.com/amoghpete/Frontend_Bakery-or-Restaurant_GSBSP-BR10
+Github Hosted: https://amoghpete.github.io/Frontend_Bakery-or-Restaurant_GSBSP-BR10/
