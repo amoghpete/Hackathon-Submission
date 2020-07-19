@@ -1,0 +1,26 @@
+﻿Report for the third 12 hours:
+
+
+
+
+* This time I built the contact us page, the credit for image used has been given in the code
+* It was built using HTML forms, to actually receive data we need backend but I came to know about mailto attribute which would email us the data. So, now it works for a static website and I used it for this contact page\
+* Navbar and footer had to be added here again as I found no way to use the same HTML code for multiple files without adding them individually. Maybe it will be possible using backend but as far as frontend is concerned duplicate code is the only option
+* I have used the required attributes for mentioning the required fields and stop the form from getting submitted without them.
+* I used CSS to give it the structure of a two-column where columns float side by side
+* I have made it responsive in such a way that on small(mobile) screen the column gets converted to rows
+* The submit button size also increase for the small screen as it is recommended
+* More customization related to the text is remaining. I am wishing to add a header section so that it becomes more pleasing
+* Navbar customization will be done in the next 12 hours
+* I will be adding two more pages about us and the menu while I thought some more like a photo gallery but let’s see if time permits
+* For the necessary two pages, I have created a rough design of how it would look with the content
+
+
+I hope by the final reporting I should complete the necessary pages at least, till then a have a look at the newly created contact page. You can go to the Home page by using the navbar
+
+
+Github Repo: https://github.com/amoghpete/Frontend_Bakery-or-Restaurant_GSBSP-BR10
+Github Hosted: https://amoghpete.github.io/Frontend_Bakery-or-Restaurant_GSBSP-BR10/contact_.html
+
+
+P.S. I have been able to understand with this project that how deadlines are important
